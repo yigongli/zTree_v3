@@ -1,0 +1,29 @@
+{
+  "name": "bkm-zTree-v3",
+  "description": "zTree is a multi-functional 'tree plug-ins.' based on jQuery. The main advantages of zTree includes excellent performance, flexible configuration, and the combination of multiple functions.",
+  "main": [
+    "./js/jquery.ztree.all.js",
+    "./css/metroStyle/metroStyle.css"
+  ],
+  "authors": [
+    "zTree (https://github.com/zTree)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "tree",
+    "jquery",
+    "plug-in",
+    "plugin",
+    "ztree",
+    "html",
+    "node"
+  ],
+  "homepage": "https://github.com/yigongli/zTree_v3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
