@@ -3,7 +3,11 @@
   "description": "zTree is a multi-functional 'tree plug-ins.' based on jQuery. The main advantages of zTree includes excellent performance, flexible configuration, and the combination of multiple functions.",
   "main": [
     "./js/jquery.ztree.all.js",
-    "./css/metroStyle/metroStyle.css"
+    "./css/metroStyle/metroStyle.css",
+    "./css/metroStyle/img/line_conn.png",
+    "./css/metroStyle/img/loading.gif",
+    "./css/metroStyle/img/metro.gif",
+    "./css/metroStyle/img/metro.png"
   ],
   "authors": [
     "zTree (https://github.com/zTree)"
